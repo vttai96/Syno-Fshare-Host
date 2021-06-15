@@ -1,0 +1,10 @@
+{
+  "name": "FsharedotVN",
+  "hostprefix": "fshare.vn",
+  "displayname": "FsharedotVN",
+  "version": "1.0",
+  "authentication": "yes",
+  "module": "FshareVN.php",
+  "class": "SynoFileHostingFsharedotVN",
+  "description": "@author: vttai96@gmail.com"
+}
