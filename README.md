@@ -37,24 +37,24 @@ Fshare.vn Host Module for Synolgoy Download Station.
     ```
     https://www.fshare.vn/file/xxxxxxxxxxxx , [pwd]
     ```
-    [x] https://www.fshare.vn/file/xxxxxxxxxxxx \
-    [x] https://www.fshare.vn/file/xxxxxxxxxxxx , pwd \
-    [x] fshare.vn/file/xxxxxxxxxxxx \
-    [x] fshare.vn/file/xxxxxxxxxxxx , pwd 
+    [x] `https://www.fshare.vn/file/xxxxxxxxxxxx` \
+    [x] `https://www.fshare.vn/file/xxxxxxxxxxxx , pwd` \
+    [x] `fshare.vn/file/xxxxxxxxxxxx` \
+    [x] `fshare.vn/file/xxxxxxxxxxxx , pwd` 
     
 2. Folder
     ```
     https://www.fshare.vn/folder/xxxxxxxxxxxx , [pwd], [opt]
     opt =1 để getlink gồm thư mục con
     ```
-    [x] https://www.fshare.vn/folder/xxxxxxxxxxxx \
-    [x] https://www.fshare.vn/folder/xxxxxxxxxxxx , pwd \
-    [x] https://www.fshare.vn/folder/xxxxxxxxxxxx , pwd , 1 \
-    [x] https://www.fshare.vn/folder/xxxxxxxxxxxx , , 1 \
-    [x] fshare.vn/folder/xxxxxxxxxxxx \
-    [x] fshare.vn/folder/xxxxxxxxxxxx , pwd \
-    [x] fshare.vn/folder/xxxxxxxxxxxx , pwd , 1 \
-    [x] fshare.vn/folder/xxxxxxxxxxxx , , 1 
+    [x] `https://www.fshare.vn/folder/xxxxxxxxxxxx` \
+    [x] `https://www.fshare.vn/folder/xxxxxxxxxxxx , pwd` \
+    [x] `https://www.fshare.vn/folder/xxxxxxxxxxxx , pwd , 1` \
+    [x] `https://www.fshare.vn/folder/xxxxxxxxxxxx , , 1` \
+    [x] `fshare.vn/folder/xxxxxxxxxxxx` \
+    [x] `fshare.vn/folder/xxxxxxxxxxxx , pwd` \
+    [x] `fshare.vn/folder/xxxxxxxxxxxx , pwd , 1` \
+    [x] `fshare.vn/folder/xxxxxxxxxxxx , , 1`
     
 ## Tham khảo
 * https://github.com/giangvo/synology-fshare
