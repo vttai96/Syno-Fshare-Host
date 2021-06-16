@@ -45,7 +45,7 @@ Fshare.vn Host Module for Synolgoy Download Station.
 2. Folder
     ```
     https://www.fshare.vn/folder/xxxxxxxxxxxx , [pwd], [opt]
-    opt =1 để getlink gồm thư mục con
+    opt=1 để getlink gồm thư mục con
     ```
     [x] `https://www.fshare.vn/folder/xxxxxxxxxxxx` \
     [x] `https://www.fshare.vn/folder/xxxxxxxxxxxx , pwd` \
